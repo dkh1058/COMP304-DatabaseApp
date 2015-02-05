@@ -1,2 +1,2 @@
-# COMP304-DatabaseApp
-2015 COMP304 Database Application Development
+# COMP305-DatabaseApp
+2015 COMP305 Database Application Development
